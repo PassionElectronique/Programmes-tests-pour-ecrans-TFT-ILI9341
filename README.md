@@ -1,4 +1,4 @@
-# Programmes tests pour écran TFT (à contrôleur ILI9341)
+# Programmes tests pour écrans TFT (à contrôleur ILI9341)
 
 Ensemble de programmes de test, pour écrans TFT SPI à puce ILI9341<br />
 Dépôt GitHub : https://github.com/PassionElectronique/Programmes-tests-pour-ecrans-TFT-ILI9341
